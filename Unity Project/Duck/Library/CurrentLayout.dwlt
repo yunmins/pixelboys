@@ -71,7 +71,11 @@ MonoBehaviour:
   m_MaxSize: {x: 14008, y: 10021}
   vertical: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 77
+=======
+  controlID: 62
+>>>>>>> bb0f0e0b46555b0101c8d486df1d823462d37ebf
 =======
   controlID: 62
 >>>>>>> bb0f0e0b46555b0101c8d486df1d823462d37ebf
@@ -124,7 +128,11 @@ MonoBehaviour:
   m_MaxSize: {x: 14008, y: 14042}
   vertical: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 76
+=======
+  controlID: 61
+>>>>>>> bb0f0e0b46555b0101c8d486df1d823462d37ebf
 =======
   controlID: 61
 >>>>>>> bb0f0e0b46555b0101c8d486df1d823462d37ebf
@@ -204,7 +212,11 @@ MonoBehaviour:
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 57
+=======
+  controlID: 42
+>>>>>>> bb0f0e0b46555b0101c8d486df1d823462d37ebf
 =======
   controlID: 42
 >>>>>>> bb0f0e0b46555b0101c8d486df1d823462d37ebf
@@ -258,7 +270,11 @@ MonoBehaviour:
   m_MaxSize: {x: 26016, y: 14042}
   vertical: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 56
+=======
+  controlID: 41
+>>>>>>> bb0f0e0b46555b0101c8d486df1d823462d37ebf
 =======
   controlID: 41
 >>>>>>> bb0f0e0b46555b0101c8d486df1d823462d37ebf
@@ -447,7 +463,11 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastSelectedObjectID: -4904
+=======
+  m_LastSelectedObjectID: -19094
+>>>>>>> bb0f0e0b46555b0101c8d486df1d823462d37ebf
 =======
   m_LastSelectedObjectID: -19094
 >>>>>>> bb0f0e0b46555b0101c8d486df1d823462d37ebf
@@ -489,7 +509,11 @@ MonoBehaviour:
     m_SearchArea: 1
     m_Folders:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets/Sprite Pack/Tap and Fly/Screenshots
+=======
+    - Assets/Sprite Pack/Tap and Fly/Sprites/Background
+>>>>>>> bb0f0e0b46555b0101c8d486df1d823462d37ebf
 =======
     - Assets/Sprite Pack/Tap and Fly/Sprites/Background
 >>>>>>> bb0f0e0b46555b0101c8d486df1d823462d37ebf
@@ -498,8 +522,12 @@ MonoBehaviour:
   m_LastFolders: []
   m_LastFoldersGridSize: -1
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastProjectPath: "C:\\Users\\\uC9C0\uD61C\\Desktop\\\uAC1C\uBC1C\\pixelboys\\Unity
     Project\\Duck"
+=======
+  m_LastProjectPath: C:\Users\YDY\Documents\GitHub\pixelboys\Unity Project\Duck
+>>>>>>> bb0f0e0b46555b0101c8d486df1d823462d37ebf
 =======
   m_LastProjectPath: C:\Users\YDY\Documents\GitHub\pixelboys\Unity Project\Duck
 >>>>>>> bb0f0e0b46555b0101c8d486df1d823462d37ebf
@@ -510,7 +538,11 @@ MonoBehaviour:
     m_SelectedIDs: 70310000
     m_LastClickedID: 12656
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000f02c0000
+=======
+    m_ExpandedIDs: 000000004a090000
+>>>>>>> bb0f0e0b46555b0101c8d486df1d823462d37ebf
 =======
     m_ExpandedIDs: 000000004a090000
 >>>>>>> bb0f0e0b46555b0101c8d486df1d823462d37ebf
@@ -542,7 +574,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: ffffffff00000000f02c0000182d00002e2d0000982e00006c2f0000
+=======
+    m_ExpandedIDs: ffffffff000000004a090000020b0000960b0000b20b0000d60b0000be0c0000
+>>>>>>> bb0f0e0b46555b0101c8d486df1d823462d37ebf
 =======
     m_ExpandedIDs: ffffffff000000004a090000020b0000960b0000b20b0000d60b0000be0c0000
 >>>>>>> bb0f0e0b46555b0101c8d486df1d823462d37ebf
@@ -662,9 +698,15 @@ MonoBehaviour:
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: d8ecffff
     m_LastClickedID: -4904
     m_ExpandedIDs: 42f0ffffcef0ffff7af4ffff00000000
+=======
+    m_SelectedIDs: 6ab5ffff
+    m_LastClickedID: -19094
+    m_ExpandedIDs: e6fbffff00000000
+>>>>>>> bb0f0e0b46555b0101c8d486df1d823462d37ebf
 =======
     m_SelectedIDs: 6ab5ffff
     m_LastClickedID: -19094
